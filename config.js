@@ -63,8 +63,8 @@ var config = {
             image: 'images/MOTA_150818_PMM_1143.jpg',
             description:'<b>Length and Difficulty</b><br>2.0 miles, Moderate<br><br><b>Amenities</b><br>Bathrooms and water available at the Pantoll Ranger Station trailhead.<br><br><b>Hike Description</b><br>This short hike immerses you in Mt. Tam’s majestic redwoods, shady Douglas-fir and tanoak forests, and sunny grasslands. The route also features several gems from Mt. Tam’s past including the Old Stage Road once used by wagons and coaches traveling from Mill Valley and the recently renovated and reopened historic Bootjack Camp. Breathtaking views of San Francisco and the bay await you from the chiseled stone seats at the equally historic Mountain Theatre.<br><br><b>Get the Latest</b><br>Trail closures, regulations, and other information can be found at <a href="https://www.parks.ca.gov/?page_id=471">California State Parks</a>.<br><br>Cell service can be spotty on Mt. Tam. We strongly suggest you download this map and description (link to do that) before hitting the trail!',
             location: {
-                center: [-122.60728, 37.91222],
-                zoom: 15.2,
+                center: [-122.60100, 37.90829 ],
+                zoom: 15.90,
                 pitch: 0,
                 bearing: 0
             },
@@ -82,10 +82,10 @@ var config = {
             ]
         },
         {
-            id: 'pantollrangerstation',
-            title: 'Pantoll Ranger Station Loop',
-            image: 'images/MOTA_150818_PMM_1143.jpg',
-            description:'<b>Length and Difficulty</b><br>2.0 miles, Moderate<br><br><b>Amenities</b><br>Bathrooms and water available at the Pantoll Ranger Station trailhead.<br><br><b>Hike Description</b><br>This short hike immerses you in Mt. Tam’s majestic redwoods, shady Douglas-fir and tanoak forests, and sunny grasslands. The route also features several gems from Mt. Tam’s past including the Old Stage Road once used by wagons and coaches traveling from Mill Valley and the recently renovated and reopened historic Bootjack Camp. Breathtaking views of San Francisco and the bay await you from the chiseled stone seats at the equally historic Mountain Theatre.<br><br><b>Get the Latest</b><br>Trail closures, regulations, and other information can be found at <a href="https://www.parks.ca.gov/?page_id=471">California State Parks</a>.<br><br>Cell service can be spotty on Mt. Tam. We strongly suggest you download this map and description (link to do that) before hitting the trail!',
+            id: 'mountainhome',
+            title: 'Mountain Home Inn Loop',
+            image: 'images/MOTA_140418_KW_21.jpg',
+            description:'<b>Length and Difficulty</b><br>8.2 miles, Moderate/Difficult<br><br><b>Hike Description</b><br>The lovely canyon along Camp Eastwood Road crosses bubbling creeks and passes through deep redwood forest groves. Enjoy views of the Pacific Ocean from the Redwood Creek Trail, as well as a mix of suny grasslands and forests, including even more redwoods! Includes the lovely Dipsea and Sun trails as you exit Muir Woods and ascend back toward Panoramic Highway If you’re here on a Sunday, stop at the Alpine Club for a drink and a snack!<br><br>Cell service can be spotty on Mt. Tam. We strongly suggest you download this map and description (link to do that) before hitting the trail!',
             location: {
                 center: [-122.60728, 37.91222],
                 zoom: 15.2,
