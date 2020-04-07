@@ -39,8 +39,8 @@ var config = {
             image: 'images/MOTA_170920_AG_4.jpg',
             description:'<b>Length and Difficulty</b><br>3.9 miles, Moderate<br><br><b>Amenities</b><br>No water, but portable restrooms at the Rock Spring trailhead. Picnic areas available along the route.<br><br><b>Hike Description</b><br>This hike hugs cool, shady Cataract Creek for nearly a mile and offers a mix of open grasslands and forests along the rest of the route. Beautiful Potrero Meadow itself is the largest wet meadow on Mt. Tam. Small braided channels and depressions support a diverse array of aquatic plants and animals, making this rare habitat a destination for botanists and hikers alike. The meadow is bookended by the popular Potrero and Rifle Camp picnic areas that offer good spots for a bite or quick rest before heading back to the Rock Spring trailhead where you began.<br><br><b>Get the Latest</b><br>Trail closures, regulations, and other information can be found at <a href="https://www.marinwater.org/"> Marin Municipal Water District</a><br><br><a href= “https://www.onetam.org/our-work/potrero-meadow-restoration”>Learn more</a>about Potrero Meadow and <a href="https://secure3.convio.net/ggnpc/site/SPageServer?pagename=Donate_to_ONE_TAM">support</a> the restoration this rare wet meadow and its stunning wildflowers and abundant wildlife.<br><br>Cell service can be spotty on Mt. Tam. We strongly suggest you download this map and description (link to do that) before hitting the trail!',
             location: {
-                center: [ -122.61510, 37.91377],
-                zoom: 15.2,
+                center: [ -122.61160, 37.91751],
+                zoom: 15.1,
                 pitch: 0,
                 bearing: 0
             },
